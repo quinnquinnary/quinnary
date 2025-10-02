@@ -64,3 +64,7 @@
         @keyframes rotate{
           100%{transform:rotateY(360deg)}
         } 
+
+      .gallery3d{
+        padding: 10px;
+      }
