@@ -76,6 +76,11 @@
       }
 
       .omg-me{
-        padding: 50px;
+        margin: 50px;
+        padding: 10px;
+        border: 8px, solid;
+        border-color:#8ae0c6;
+        border-width: 8px;
+        border-radius: 10px;
       }
       
