@@ -77,9 +77,9 @@
 
       .omg-me{
         padding: 50px;
-        border-style: double;
+        border-style: solid;
         border-color:#65abb4;
         border-width: 8px;
-        border-radius: 50px;
+        border-radius: 10px;
       }
       
