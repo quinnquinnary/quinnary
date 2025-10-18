@@ -82,5 +82,20 @@
         border-color:#8ae0c6;
         border-width: 8px;
         border-radius: 10px;
+        float: left;
+        
+      }
+
+      .aboutme{
+        
+        padding:10px;
+        border: 8px, solid;
+        border-color:#fb0169;
+        border-width: 8px;
+        border-radius: 10px;
+        margin-left: 400px;
+        margin-right: 50px;
+        margin-top: 83px;
+        
       }
       
