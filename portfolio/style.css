@@ -66,7 +66,7 @@
         } 
 
       p {
-        color:#330e0e;
+        color:d
         text-align: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
       }
@@ -96,6 +96,8 @@
         margin-left: 400px;
         margin-right: 50px;
         margin-top: 83px;
+        color:#330e0e;
+        font-family:'Courier New', Courier, monospace;
         
       }
       
