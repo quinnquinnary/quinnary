@@ -56,7 +56,7 @@
         border-width: 8px;
         border-radius: 50px;
         padding: 2px;
-        width: 55%;
+        width: 50%;
 
         animation-name: rotate;
         animation-duration: 2s;
@@ -103,6 +103,17 @@
         margin-top: 83px;
         color:#330e0e;
         font-family:'Courier New', Courier, monospace;
+        
+      }
+
+      .mememe{
+        display:block;
+        margin: auto;
+        width: 50%;
+        border: 8px, solid;
+        border-color:#fb0169;
+        border-width: 8px;
+        border-radius: 10px;
         
       }
       
