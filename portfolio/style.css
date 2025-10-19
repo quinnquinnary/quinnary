@@ -36,6 +36,7 @@
       padding: 0;
       margin: 0;
       background-color: #ffffe9;
+      cursor: url("assets/customcursor.png"), auto;
     }
 
     h1 {
