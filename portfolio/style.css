@@ -74,6 +74,10 @@
 
       .gallery{
         padding: 10px;
+        border: 8px, solid;
+        border-color:#fb0169;
+        border-width: 8px;
+        border-radius: 10px;
       }
 
       .omg-me{
