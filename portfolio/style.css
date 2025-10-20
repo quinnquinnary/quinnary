@@ -73,6 +73,15 @@
         padding:10px;
         text-shadow: .5px .5px #fb0169, -1px -1px #8ae0c6;
       }
+      .quinn{
+        color:#330e0e;
+        font-family: 'Courier New', Courier, monospace;
+        font-size:25px;
+        padding-top:15px;
+        padding-bottom:0%;
+        text-shadow: .5px .5px #fb0169, -1px -1px #8ae0c6;
+      }
+
       p {
         color:#330e0e;
         text-align: left;
@@ -111,7 +120,7 @@
         border-radius: 10px;
         margin-left: 400px;
         margin-right: 50px;
-        margin-top: 83px;
+        margin-top: 5px;
         color:#330e0e;
         font-family:'Courier New', Courier, monospace;
       }
