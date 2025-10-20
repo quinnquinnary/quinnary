@@ -71,7 +71,7 @@
         font-family: 'Courier New', Courier, monospace;
         font-size:20px;
         padding:10px;
-        text-shadow: .5px .5px #fb0169, -.5px -.5px #8ae0c6;
+        text-shadow: .5px .5px #fb0169, -1px -1px #8ae0c6;
       }
       p {
         color:#330e0e;
