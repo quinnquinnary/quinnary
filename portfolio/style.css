@@ -87,6 +87,10 @@
         text-align: left;
         font-family: Georgia, 'Times New Roman', Times, serif;
       }
+      .caption{
+        margin-left: 10px;
+        margin-right: 400px;
+      }
 
       .gallery{
         padding: 10px;
